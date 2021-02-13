@@ -3,7 +3,7 @@
 - 🔭  I’m currently working on Golang programming
 - 🌱  I’m currently learning Serverless and Kubernetes
 - 🤔  I’m currently watching some projects of CNCF
-- 💬  Ask me about `da` `bao` `jian`
+- 💬  Ask me about anything except `da` `bao` `jian`
 
 
 <!--
